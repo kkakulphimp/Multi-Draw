@@ -1,0 +1,12 @@
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\bin\Debug\MultiDrawServer.exe.config
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\bin\Debug\MultiDrawServer.exe
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\bin\Debug\MultiDrawServer.pdb
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\bin\Debug\mdtypes.dll
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.csprojResolveAssemblyReference.cache
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.Properties.Resources.resources
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.Server.resources
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.csproj.GenerateResource.cache
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.csproj.CoreCompileInputs.cache
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.csproj.CopyComplete
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.exe
+C:\Users\karun\Desktop\1171_kkakulphimp1\NAIT\CMPE2800\LAB\LAB03\MultiDrawServer\obj\Debug\MultiDrawServer.pdb
